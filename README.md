@@ -1,2 +1,2 @@
 # Finance-Project
-Finance covers a broad range of topics including corporate investments and financing decisions, security valuation, portfolio management, and the behavior of asset prices and investors.
+<h1>Repo for ongoing and future projects related to finance and accounting</h1>
